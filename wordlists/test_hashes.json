@@ -1,0 +1,72 @@
+[
+  {
+    "id": "TC-01",
+    "name": "PIN",
+    "plaintext": "123456",
+    "category": "Numeric Sequential",
+    "bcrypt_rounds": 8,
+    "md5_hash": "e10adc3949ba59abbe56e057f20f883e",
+    "sha1_hash": "7c4a8d09ca3762af61e59520943dc26494f8941b",
+    "bcrypt_hash": "$2b$08$E8GY5CVVAyBVsO47lU4/TO/5/0iW0qBsByVA96oOQhInmIOgJGmGO"
+  },
+  {
+    "id": "TC-02",
+    "name": "Dictionary Word",
+    "plaintext": "password",
+    "category": "Dictionary Word",
+    "bcrypt_rounds": 8,
+    "md5_hash": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "sha1_hash": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
+    "bcrypt_hash": "$2b$08$qmN9ulGvbFmi/hOC3T63zeck28eG4yjem689ifdMd8hrNAJM5aL4W"
+  },
+  {
+    "id": "TC-03",
+    "name": "Default Admin Credential",
+    "plaintext": "admin123",
+    "category": "Hybrid Word+Number",
+    "bcrypt_rounds": 8,
+    "md5_hash": "0192023a7bbd73250516f069df18b500",
+    "sha1_hash": "f865b53623b121fd34ee5426c792e5c33af8c227",
+    "bcrypt_hash": "$2b$08$FEuvaPza.Ts2Ax8M9EP5FOFRwd72EggT44y5zOo0O3Sdtohlv.XLK"
+  },
+  {
+    "id": "TC-04",
+    "name": "Keyboard Walk",
+    "plaintext": "qwerty",
+    "category": "Spatial Pattern",
+    "bcrypt_rounds": 8,
+    "md5_hash": "d8578edf8458ce06fbc5bb76a58c5ca4",
+    "sha1_hash": "b1b3773a05c0ed0176787a4f1574ff0075f7521e",
+    "bcrypt_hash": "$2b$08$mQQMPueETPODiMzBE6b1KOcQ8kOcJGglRLuwR0DPLX5jlSHMTnKy6"
+  },
+  {
+    "id": "TC-05",
+    "name": "Leet-Speak Mutated",
+    "plaintext": "p@ssw0rd",
+    "category": "Leet Substitution",
+    "bcrypt_rounds": 8,
+    "md5_hash": "0f359740bd1cda994f8b55330c86d845",
+    "sha1_hash": "57b2ad99044d337197c0c39fd3823568ff81e48a",
+    "bcrypt_hash": "$2b$08$f5BBagjf6w9yCRWZzxyUGeYwCjiyS9NkXOPz9BywmpdMbpwuF0qPu"
+  },
+  {
+    "id": "TC-06",
+    "name": "Common Password",
+    "plaintext": "winter123",
+    "category": "Common Term",
+    "bcrypt_rounds": 8,
+    "md5_hash": "27c8267388843545ec6d9a812aada0ef",
+    "sha1_hash": "7e57f9d7f735a87ee67f1bd0f95cfdad163d8846",
+    "bcrypt_hash": "$2b$08$5dXnDUzfqH1e1SQbgSF5/.KROwKN5E/1b74vzYWjDqgNvrduzzCZi"
+  },
+  {
+    "id": "TC-07",
+    "name": "Complex Random String",
+    "plaintext": "K#9vX$2mQ!z8",
+    "category": "High Entropy Random",
+    "bcrypt_rounds": 8,
+    "md5_hash": "49a60eb89ff3e63802c65069988ad049",
+    "sha1_hash": "2419f9f5f0bc68e1c6df615844cfa8a0089cccb8",
+    "bcrypt_hash": "$2b$08$gXT1WCxsMD0drIMXupHcUu/jiJqtfIdgFIyZ.81RXM51p5U6z/Fga"
+  }
+]

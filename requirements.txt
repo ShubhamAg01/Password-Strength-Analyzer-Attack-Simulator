@@ -1,0 +1,7 @@
+# Python Dependencies for Password Strength Analyzer & Attack Simulator
+# Cyber Security Lab (7CS4-22) - SKIT Jaipur
+# Author: Shubham Agarwal (Roll No: 23ESKCS815, Batch: CS-D-G2)
+
+bcrypt>=4.0.0
+matplotlib>=3.7.0
+numpy>=1.24.0
