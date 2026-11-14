@@ -1,0 +1,22 @@
+{
+  "MD5": {
+    "hash_rate": 460999.44684931386,
+    "time_per_1000_candidates_sec": 0.0021691999997710807
+  },
+  "SHA-1": {
+    "hash_rate": 489452.30287072004,
+    "time_per_1000_candidates_sec": 0.002043100000009872
+  },
+  "bcrypt (Cost 8)": {
+    "hash_rate": 30.54058981825785,
+    "time_per_1000_candidates_sec": 32.743309999932535
+  },
+  "bcrypt (Cost 10)": {
+    "hash_rate": 7.02957059168806,
+    "time_per_1000_candidates_sec": 142.25619999924675
+  },
+  "bcrypt (Cost 12)": {
+    "hash_rate": 1.703929329188241,
+    "time_per_1000_candidates_sec": 586.8788000007044
+  }
+}
